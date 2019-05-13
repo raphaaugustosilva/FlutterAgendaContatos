@@ -1,0 +1,204 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:url_launcher] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-14:12
+MERGED from [:sqflite] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/sqflite/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/0e7790c3780b143da1f4ad6b7311b03b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/7ac66e221f7235fc29c7d60c13ac5155/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/e6ca4b5ecfe93e5142c0b56734a078c3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/446db55eef34e20e94327da57fd037fc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/17ed6bd6e7f2c62f8eae4e8ab210cc11/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/144b58dd38c352b297a8d667239aa287/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/e09967959884b5c8a949a46737aa5192/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/18a5b3e67c2d2b760916b3c7790a358e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/1a353773b2959b3be2f6b929e5371ed7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/2b46b117cc1508260a75ab0f18838cb6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/8d3502d228ca10aa7de7f3eb4fee3a4f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/b0d35ad8cf613cd2471427b72969c27e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/cad3fc3e0f280a7f8b72f1ce0d124744/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/309bf229c5b0d06266b7ff50aa772824/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/9e991838411da9fae59962338c41c79f/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/be9a3557c95fa34b3e6d51609fd3db12/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/7fa34ebef3e662d9d4515d3f76d184a9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/6c7aab1a44a3b4dff2f460062d6dd907/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/ba29bb7571426c05539b208381b2e412/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/34b1b2554f06cb4c56650b9cde01baf6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/8606f4444366038e6bce5913159546ae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/105a8b46dba1ccb64a21d4915e97a2da/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/038e68ce318bac3c99c23d2dad3201fe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/d5a192618346698ec986a0017aed403d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/595cc594301bbb6f081fd0be35fd92b8/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:2:5-42
+		INJECTED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [:url_launcher] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-12:19
+MERGED from [:image_picker] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:5-20:19
+MERGED from [androidx.core:core:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/309bf229c5b0d06266b7ff50aa772824/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/309bf229c5b0d06266b7ff50aa772824/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/9e991838411da9fae59962338c41c79f/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/9e991838411da9fae59962338c41c79f/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/309bf229c5b0d06266b7ff50aa772824/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:11:9-40
+	android:icon
+		ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:10:9-57
+activity#com.example.agenda_contatos.MainActivity
+ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml
+MERGED from [:url_launcher] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/sqflite/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/sqflite/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/0e7790c3780b143da1f4ad6b7311b03b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/0e7790c3780b143da1f4ad6b7311b03b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/7ac66e221f7235fc29c7d60c13ac5155/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/7ac66e221f7235fc29c7d60c13ac5155/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/e6ca4b5ecfe93e5142c0b56734a078c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/e6ca4b5ecfe93e5142c0b56734a078c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/446db55eef34e20e94327da57fd037fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/446db55eef34e20e94327da57fd037fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/17ed6bd6e7f2c62f8eae4e8ab210cc11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/17ed6bd6e7f2c62f8eae4e8ab210cc11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/144b58dd38c352b297a8d667239aa287/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/144b58dd38c352b297a8d667239aa287/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/e09967959884b5c8a949a46737aa5192/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/e09967959884b5c8a949a46737aa5192/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/18a5b3e67c2d2b760916b3c7790a358e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/18a5b3e67c2d2b760916b3c7790a358e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/1a353773b2959b3be2f6b929e5371ed7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/1a353773b2959b3be2f6b929e5371ed7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/2b46b117cc1508260a75ab0f18838cb6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/2b46b117cc1508260a75ab0f18838cb6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/8d3502d228ca10aa7de7f3eb4fee3a4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/8d3502d228ca10aa7de7f3eb4fee3a4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/b0d35ad8cf613cd2471427b72969c27e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/b0d35ad8cf613cd2471427b72969c27e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/cad3fc3e0f280a7f8b72f1ce0d124744/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/cad3fc3e0f280a7f8b72f1ce0d124744/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/309bf229c5b0d06266b7ff50aa772824/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/309bf229c5b0d06266b7ff50aa772824/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/9e991838411da9fae59962338c41c79f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/9e991838411da9fae59962338c41c79f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/be9a3557c95fa34b3e6d51609fd3db12/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/be9a3557c95fa34b3e6d51609fd3db12/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/7fa34ebef3e662d9d4515d3f76d184a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/7fa34ebef3e662d9d4515d3f76d184a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/6c7aab1a44a3b4dff2f460062d6dd907/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/6c7aab1a44a3b4dff2f460062d6dd907/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/ba29bb7571426c05539b208381b2e412/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/ba29bb7571426c05539b208381b2e412/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/34b1b2554f06cb4c56650b9cde01baf6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/34b1b2554f06cb4c56650b9cde01baf6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/8606f4444366038e6bce5913159546ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/8606f4444366038e6bce5913159546ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/105a8b46dba1ccb64a21d4915e97a2da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/105a8b46dba1ccb64a21d4915e97a2da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/038e68ce318bac3c99c23d2dad3201fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/038e68ce318bac3c99c23d2dad3201fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/d5a192618346698ec986a0017aed403d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/d5a192618346698ec986a0017aed403d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/595cc594301bbb6f081fd0be35fd92b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/raphael.silva/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/595cc594301bbb6f081fd0be35fd92b8/AndroidManifest.xml:20:5-44
+INJECTED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/raphael.silva/Projetos/Flutter/agenda_contatos/android/app/src/debug/AndroidManifest.xml:6:22-64
+activity#io.flutter.plugins.urllauncher.UrlLauncherPlugin$WebViewActivity
+ADDED from [:url_launcher] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:13-92
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] /Users/raphael.silva/Projetos/Flutter/agenda_contatos/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:17-67
